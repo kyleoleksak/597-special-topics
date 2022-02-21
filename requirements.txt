@@ -2,9 +2,9 @@
 flask
 joblib
 pathlib
-warnings
+r-warn
 numpy
 pandas
-sklearn
+scikit-learn
 requests
 json5

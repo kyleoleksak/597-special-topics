@@ -1,10 +1,6 @@
 # requirements.txt
-flask
-joblib
-pathlib
-r-warn
-numpy
+Flask==2.0
+gunicorn==20.1
+numpy==1.22
+scikit-learn==1.00
 pandas
-scikit-learn
-requests
-json5

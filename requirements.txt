@@ -1,0 +1,10 @@
+# requirements.txt
+flask
+joblib
+json
+pathlib
+warnings
+numpy
+pandas
+sklearn
+requests

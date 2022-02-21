@@ -5,7 +5,7 @@ import json
 from flask import Flask, request, jsonify
 import numpy as np
 
-clf = joblib.load('rf_model.joblib') 
+eclf = joblib.load('rf_model.joblib') 
 
 with open('dummy_column_mapper.json') as fin:
     dummy_column_mapper = json.load(fin)
